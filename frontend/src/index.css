@@ -1,1 +1,11 @@
 @import "tailwindcss";
+#root{
+    background-color: rgb(141, 139, 139);
+}
+a.active hr{
+    display: block;
+}
+i{
+    font-size: 20px;
+    color: white;
+}
